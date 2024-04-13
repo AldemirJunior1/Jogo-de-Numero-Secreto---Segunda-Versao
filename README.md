@@ -1,7 +1,19 @@
-<h1>Jogo do número secreto</h1>
+<h1>Jogo do número secreto Segunda Versão</h1>
 
 <h2>�� Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Desenvolvi um jogo interativo de "Número Secreto" como parte de um projeto durante meu curso da Alura, utilizando HTML, CSS e JavaScript. O projeto consiste em um jogo no qual o jogador tenta adivinhar um número secreto gerado aleatoriamente entre 1 e 10. Destaco as principais funcionalidades do projeto:
+
+Experiência do Usuário: Implementei uma interface intuitiva e amigável para o usuário, utilizando HTML para estruturar o layout e CSS para estilização visual, proporcionando uma experiência de jogo agradável.
+
+Lógica do Jogo: Utilizei JavaScript para desenvolver a lógica do jogo, incluindo a geração aleatória do número secreto, a verificação dos palpites do jogador e a exibição de mensagens indicativas sobre a relação entre o palpite do jogador e o número secreto.
+
+Feedback Interativo: Implementei feedbacks visuais e auditivos para o jogador, como mensagens informativas e a utilização da API do ResponsiveVoice para fornecer feedback auditivo sobre o andamento do jogo.
+
+Funcionalidades Adicionais: Adicionei a funcionalidade de reiniciar o jogo, permitindo que o jogador comece uma nova rodada a qualquer momento, além de manter o controle do número de tentativas realizadas.
+
+Este projeto demonstra minha habilidade em desenvolver aplicações web interativas utilizando tecnologias front-end como HTML, CSS e JavaScript, além de destacar minha capacidade de resolver problemas e criar experiências de usuário envolventes.
+
+</p>
 
 ## �� Tecnologias
 <div>
