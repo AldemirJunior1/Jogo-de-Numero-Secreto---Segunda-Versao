@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Alura Midi</title>
+    <title>Jogo do número secreto Segunda Versão</title>
 </head>
 <body>
 
