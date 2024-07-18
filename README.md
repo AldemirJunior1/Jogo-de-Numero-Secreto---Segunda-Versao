@@ -32,7 +32,7 @@ Este projeto demonstra minha habilidade em desenvolver aplicações web interati
 <p>Aldemir Junior - <a href="https://www.linkedin.com/in/aldemir-desenvolvedor/">LinkedIn</a> - <a href="mailto:aldemirjuniorg@gmail.com">aldemirjuniorg@gmail.com</a></p>
 
 <h2>Link do Projeto</h2>
-<p><a href="[https://alura-midi-ivory-kappa.vercel.app/](https://jogo-de-numero-secreto-segunda-versao.vercel.app/)">https://alura-midi-ivory-kappa.vercel.app/</a></p>
+<p><a href="https://jogo-de-numero-secreto-segunda-versao.vercel.app/">https://alura-midi-ivory-kappa.vercel.app/</a></p>
 
 </body>
 </html>
